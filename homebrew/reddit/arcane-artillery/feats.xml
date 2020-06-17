@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit/arcane-artillery/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/matheusassed/aurorabuilder-elements/master/homebrew/reddit/arcane-artillery/feats.xml" />
 		</update>
 	</info>
 	

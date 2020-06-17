@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="eldritch-invocations.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit/arcane-artillery/eldritch-invocations.xml" />
+			<file name="eldritch-invocations.xml" url="https://raw.githubusercontent.com/matheusassed/aurorabuilder-elements/master/homebrew/reddit/arcane-artillery/eldritch-invocations.xml" />
 		</update>
 	</info>
 	

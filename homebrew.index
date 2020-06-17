@@ -3,10 +3,10 @@
 	<info>
 		<name>Homebrew</name>
 		<update version="0.0.2">
-			<file name="homebrew.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew.index" />
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/matheusassed/aurorabuilder-elements/master/homebrew.index" />
 		</update>
 	</info>
 	<files>
-		<obsolete name="reddit.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit.index" />		
+		<obsolete name="reddit.index" url="https://raw.githubusercontent.com/matheusassed/aurorabuilder-elements/master/homebrew/reddit.index" />		
 	</files>
 </index>

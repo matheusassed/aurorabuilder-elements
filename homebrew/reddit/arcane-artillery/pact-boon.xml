@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="pact-boon.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit/arcane-artillery/pact-boon.xml" />
+			<file name="pact-boon.xml" url="https://raw.githubusercontent.com/matheusassed/aurorabuilder-elements/master/homebrew/reddit/arcane-artillery/pact-boon.xml" />
 		</update>
 	</info>
 

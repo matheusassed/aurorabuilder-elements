@@ -14,7 +14,7 @@ The issue tracker is the preferred channel for content [issues](#issues) and [re
 <a name="issues"></a>
 ## Content Issues
 
-Create an [issue](https://github.com/aurorabuilder/elements/issues/new/choose) using the _Content Issue_ template.<br>
+Create an [issue](https://github.com/matheusassed/aurorabuilder-elements/issues/new/choose) using the _Content Issue_ template.<br>
 A content issue might be one of the following:
 
 * missing content from an existing source <sup>1</sup>
@@ -28,7 +28,7 @@ A content issue might be one of the following:
 <a name="requests"></a>
 ## Content Requests
 
-Create an [issue](https://github.com/aurorabuilder/elements/issues/new/choose) using the _Content Request_ template.
+Create an [issue](https://github.com/matheusassed/aurorabuilder-elements/issues/new/choose) using the _Content Request_ template.
 Provide a link to the website where the content is presented and more information about the source can obtained (e.g. a link to the creator's website or a blog post). **Do not** post direct links to copyrighted material.
 
 When making a request make sure it's in the [project scope](#scope). Out of scope requests will be closed.
